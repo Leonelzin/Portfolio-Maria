@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://thqms.github.io/Landing-Page-Arquitetura/sitemap.xml
