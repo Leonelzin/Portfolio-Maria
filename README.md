@@ -2,7 +2,7 @@
 
 Site de apresentação (landing page) da arquiteta e urbanista **Maria Eduarda Martins**, com foco em design de interiores e ambientes de saúde (hospitais, clínicas e consultórios). Atendimento presencial em Anápolis e Goiânia e on-line para todo o Brasil e o exterior. Projetos residenciais são atendidos sob demanda.
 
-**🔗 Site no ar:** https://thqms.github.io/Portfolio-Maria/
+**🔗 Site no ar:** https://leonelzin.github.io/Portfolio-Maria/
 
 ---
 
